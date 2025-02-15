@@ -1,0 +1,1 @@
+This error occurs when you try to use a feature that is not supported by the Expo CLI or the Expo Go app. For example, you might try to use a native module that is not compatible with Expo, or you might try to use a feature that is only available in a specific version of Expo.
